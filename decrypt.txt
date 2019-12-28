@@ -1,0 +1,11 @@
+PROBLEM STATEMENT
+
+We have to find a decryption technique for some text that has been encrypted in the following manner :-
+
+Suppose that N = 103 and we chose to use the first 26 odd prime numbers,
+because we worry that it is too easy to factor even numbers.
+Then A = 3, B = 5, C = 7, D = 11, and so on, up to Z = 103.
+Also suppose that we want to encrypt the CJ QUIZ... pangram above,
+so our plaintext is CJQUIZKNOWBEVYOFDPFLUXALGORITHMS.
+Then the first value in our ciphertext is 7 (the prime for C) times 31 (the prime for J) = 217;
+the next value is 1891, and so on, ending with 3053.

@@ -1,0 +1,6 @@
+PROBLEM STATEMENT
+
+A particular keyboard is used to write cheques for the winners of a coding competition.
+But, the keyboard is missing the number '4', so any amount containing the number '4' cannot be written.
+The program written is supposed to split the amount into two parts where M and N where neither N nor M
+can contain the digit '4' anywhere in it.
